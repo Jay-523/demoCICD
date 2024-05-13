@@ -12,9 +12,7 @@ docker build -t app-name .
 docker run -p 80:80 app-name
 ```
 
-### 3. Create Git repo
-
-If you clone this repo this step is not needed. Or you can delete this git repo with `rm -rf .git` and start with a new one:
+UPDATING THE README.md to test the code change
 
 ```bash
 git init
